@@ -1,0 +1,4 @@
+R5T.Teutonia.Test.Construction - A construction console-app for the library R5T.Teutonia.Test.
+
+Goals
+
