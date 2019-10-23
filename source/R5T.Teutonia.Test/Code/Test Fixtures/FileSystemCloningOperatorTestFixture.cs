@@ -171,13 +171,13 @@ namespace R5T.Teutonia.Test
             Assert.IsTrue(success, "Failed to verify cloned file system.");
         }
 
-        /// <summary>
-        /// Tests what happens if the source site directory path does not exist.
-        /// </summary>
-        [TestMethod]
-        public void TestSourceSiteDirectoryDoesNotExist()
-        {
+        ///// <summary>
+        ///// Tests what happens if the source site directory path does not exist.
+        ///// </summary>
+        //[TestMethod]
+        //public void TestSourceSiteDirectoryDoesNotExist()
+        //{
 
-        }
+        //}
     }
 }
