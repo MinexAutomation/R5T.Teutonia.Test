@@ -7,4 +7,10 @@
   <ItemGroup>
     <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\R5T.Gepidia.Base\source\R5T.Gepidia.Base\R5T.Gepidia.Base.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Lombardy.Base\source\R5T.Lombardy.Base\R5T.Lombardy.Base.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Salamis\source\R5T.Salamis\R5T.Salamis.csproj" />
+    <ProjectReference Include="..\..\..\R5T.Teutonia.Base\source\R5T.Teutonia.Base\R5T.Teutonia.Base.csproj" />
+  </ItemGroup>
 </Project>
